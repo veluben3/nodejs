@@ -1,0 +1,6 @@
+2024-10-13 16:58:33: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:58:41: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:58:48: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:58:59: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:59:11: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-14 08:50:55: error: MongoDB connection error: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017

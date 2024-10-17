@@ -1,0 +1,883 @@
+2024-10-13 16:58:33: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:58:41: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:58:48: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:58:59: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:59:11: error: MongoDB connection error: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-10-13 16:59:28: info: connected to MongoDB
+2024-10-13 16:59:28: info: Server UP and Running
+2024-10-13 17:00:18: info: connected to MongoDB
+2024-10-13 17:00:18: info: Server UP and Running
+2024-10-13 17:00:46: info: connected to MongoDB
+2024-10-13 17:00:46: info: Server UP and Running
+2024-10-13 17:01:50: info: connected to MongoDB
+2024-10-13 17:01:50: info: Server UP and Running
+2024-10-13 17:07:30: info: connected to MongoDB
+2024-10-13 17:07:30: info: Server UP and Running
+2024-10-13 17:08:11: info: connected to MongoDB
+2024-10-13 17:08:11: info: Server UP and Running
+2024-10-13 17:09:05: info: connected to MongoDB
+2024-10-13 17:09:05: info: Server UP and Running
+2024-10-13 17:09:10: info: connected to MongoDB
+2024-10-13 17:09:10: info: Server UP and Running
+2024-10-13 17:09:42: info: connected to MongoDB
+2024-10-13 17:09:42: info: Server UP and Running
+2024-10-13 17:10:02: info: connected to MongoDB
+2024-10-13 17:10:02: info: Server UP and Running
+2024-10-13 17:10:38: info: connected to MongoDB
+2024-10-13 17:10:38: info: Server UP and Running
+2024-10-13 17:11:53: info: connected to MongoDB
+2024-10-13 17:11:53: info: Server UP and Running
+2024-10-13 17:12:58: info: connected to MongoDB
+2024-10-13 17:12:58: info: Server UP and Running
+2024-10-13 17:13:38: info: connected to MongoDB
+2024-10-13 17:13:38: info: Server UP and Running
+2024-10-13 17:13:54: info: connected to MongoDB
+2024-10-13 17:13:54: info: Server UP and Running
+2024-10-13 17:17:23: info: connected to MongoDB
+2024-10-13 17:17:23: info: Server UP and Running
+2024-10-13 17:17:56: info: connected to MongoDB
+2024-10-13 17:17:56: info: Server UP and Running
+2024-10-13 17:19:14: info: connected to MongoDB
+2024-10-13 17:19:14: info: Server UP and Running
+2024-10-13 17:19:23: info: connected to MongoDB
+2024-10-13 17:19:23: info: Server UP and Running
+2024-10-13 17:23:03: info: connected to MongoDB
+2024-10-13 17:23:03: info: Server UP and Running
+2024-10-13 17:23:22: info: connected to MongoDB
+2024-10-13 17:23:22: info: Server UP and Running
+2024-10-13 17:25:13: info: connected to MongoDB
+2024-10-13 17:25:13: info: Server UP and Running
+2024-10-13 17:26:11: info: connected to MongoDB
+2024-10-13 17:26:11: info: Server UP and Running
+2024-10-13 18:45:53: info: connected to MongoDB
+2024-10-13 18:47:12: info: connected to MongoDB
+2024-10-13 18:47:12: info: Server UP and Running
+2024-10-13 19:00:44: info: connected to MongoDB
+2024-10-13 19:00:44: info: Server UP and Running
+2024-10-13 19:01:14: info: connected to MongoDB
+2024-10-13 19:01:14: info: Server UP and Running
+2024-10-13 19:01:22: info: connected to MongoDB
+2024-10-13 19:01:22: info: Server UP and Running
+2024-10-13 19:05:50: info: connected to MongoDB
+2024-10-13 19:05:50: info: Server UP and Running
+2024-10-13 19:06:29: info: connected to MongoDB
+2024-10-13 19:06:29: info: Server UP and Running
+2024-10-13 19:06:50: info: connected to MongoDB
+2024-10-13 19:06:50: info: Server UP and Running
+2024-10-13 19:07:02: info: connected to MongoDB
+2024-10-13 19:07:03: info: Server UP and Running
+2024-10-13 19:07:22: info: connected to MongoDB
+2024-10-13 19:07:22: info: Server UP and Running
+2024-10-13 19:07:30: info: connected to MongoDB
+2024-10-13 19:07:30: info: Server UP and Running
+2024-10-13 19:07:38: info: connected to MongoDB
+2024-10-13 19:07:38: info: Server UP and Running
+2024-10-13 19:07:46: info: connected to MongoDB
+2024-10-13 19:07:46: info: Server UP and Running
+2024-10-13 19:07:54: info: connected to MongoDB
+2024-10-13 19:07:54: info: Server UP and Running
+2024-10-13 19:08:14: info: connected to MongoDB
+2024-10-13 19:08:14: info: Server UP and Running
+2024-10-13 19:08:59: info: connected to MongoDB
+2024-10-13 19:08:59: info: Server UP and Running
+2024-10-13 19:09:33: info: connected to MongoDB
+2024-10-13 19:09:33: info: Server UP and Running
+2024-10-13 19:10:05: info: connected to MongoDB
+2024-10-13 19:10:05: info: Server UP and Running
+2024-10-13 19:10:16: info: connected to MongoDB
+2024-10-13 19:10:16: info: Server UP and Running
+2024-10-13 19:10:35: info: connected to MongoDB
+2024-10-13 19:10:35: info: Server UP and Running
+2024-10-13 19:10:50: info: connected to MongoDB
+2024-10-13 19:10:50: info: Server UP and Running
+2024-10-13 19:11:04: info: connected to MongoDB
+2024-10-13 19:11:04: info: Server UP and Running
+2024-10-13 19:12:15: info: connected to MongoDB
+2024-10-13 19:12:15: info: Server UP and Running
+2024-10-13 19:14:29: info: connected to MongoDB
+2024-10-13 19:14:29: info: Server UP and Running
+2024-10-13 19:15:20: info: connected to MongoDB
+2024-10-13 19:15:20: info: Server UP and Running
+2024-10-13 19:15:43: info: connected to MongoDB
+2024-10-13 19:15:43: info: Server UP and Running
+2024-10-13 19:18:36: info: connected to MongoDB
+2024-10-13 19:18:36: info: Server UP and Running
+2024-10-13 19:18:47: info: connected to MongoDB
+2024-10-13 19:18:47: info: Server UP and Running
+2024-10-13 19:20:35: info: connected to MongoDB
+2024-10-13 19:20:35: info: Server UP and Running
+2024-10-13 19:20:59: info: connected to MongoDB
+2024-10-13 19:20:59: info: Server UP and Running
+2024-10-13 19:21:18: info: connected to MongoDB
+2024-10-13 19:21:18: info: Server UP and Running
+2024-10-13 19:22:06: info: connected to MongoDB
+2024-10-13 19:22:06: info: Server UP and Running
+2024-10-13 19:22:52: info: connected to MongoDB
+2024-10-13 19:22:52: info: Server UP and Running
+2024-10-13 19:23:10: info: connected to MongoDB
+2024-10-13 19:23:10: info: Server UP and Running
+2024-10-13 19:23:29: info: connected to MongoDB
+2024-10-13 19:23:29: info: Server UP and Running
+2024-10-13 19:24:25: info: connected to MongoDB
+2024-10-13 19:24:25: info: Server UP and Running
+2024-10-13 19:24:57: info: connected to MongoDB
+2024-10-13 19:24:57: info: Server UP and Running
+2024-10-13 20:04:03: info: connected to MongoDB
+2024-10-13 20:04:03: info: Server UP and Running
+2024-10-13 20:04:07: info: connected to MongoDB
+2024-10-13 20:04:07: info: Server UP and Running
+2024-10-13 20:04:48: info: connected to MongoDB
+2024-10-13 20:04:48: info: Server UP and Running
+2024-10-13 20:05:02: info: connected to MongoDB
+2024-10-13 20:05:02: info: Server UP and Running
+2024-10-13 20:08:28: info: connected to MongoDB
+2024-10-13 20:08:28: info: Server UP and Running
+2024-10-13 20:09:23: info: connected to MongoDB
+2024-10-13 20:09:23: info: Server UP and Running
+2024-10-13 20:13:50: info: connected to MongoDB
+2024-10-13 20:13:50: info: Server UP and Running
+2024-10-13 20:15:05: info: connected to MongoDB
+2024-10-13 20:15:05: info: Server UP and Running
+2024-10-13 20:21:50: info: connected to MongoDB
+2024-10-13 20:21:50: info: Server UP and Running
+2024-10-13 20:22:39: info: connected to MongoDB
+2024-10-13 20:22:39: info: Server UP and Running
+2024-10-13 20:23:39: info: connected to MongoDB
+2024-10-13 20:23:39: info: Server UP and Running
+2024-10-13 20:24:10: info: connected to MongoDB
+2024-10-13 20:24:10: info: Server UP and Running
+2024-10-13 20:24:58: info: connected to MongoDB
+2024-10-13 20:24:58: info: Server UP and Running
+2024-10-13 20:55:09: info: connected to MongoDB
+2024-10-13 20:55:09: info: Server UP and Running
+2024-10-13 20:55:48: info: connected to MongoDB
+2024-10-13 20:55:48: info: Server UP and Running
+2024-10-13 20:56:15: info: connected to MongoDB
+2024-10-13 20:56:15: info: Server UP and Running
+2024-10-13 20:56:28: info: connected to MongoDB
+2024-10-13 20:56:28: info: Server UP and Running
+2024-10-13 20:57:03: info: connected to MongoDB
+2024-10-13 20:57:03: info: Server UP and Running
+2024-10-13 20:59:35: info: connected to MongoDB
+2024-10-13 20:59:35: info: Server UP and Running
+2024-10-13 21:01:04: info: connected to MongoDB
+2024-10-13 21:01:04: info: Server UP and Running
+2024-10-13 21:01:32: info: connected to MongoDB
+2024-10-13 21:01:32: info: Server UP and Running
+2024-10-13 21:04:04: info: connected to MongoDB
+2024-10-13 21:04:04: info: Server UP and Running
+2024-10-13 21:04:14: info: connected to MongoDB
+2024-10-13 21:04:14: info: Server UP and Running
+2024-10-13 21:05:31: info: connected to MongoDB
+2024-10-13 21:05:31: info: Server UP and Running
+2024-10-13 21:06:01: info: connected to MongoDB
+2024-10-13 21:06:01: info: Server UP and Running
+2024-10-13 21:06:51: info: connected to MongoDB
+2024-10-13 21:06:51: info: Server UP and Running
+2024-10-13 21:07:20: info: connected to MongoDB
+2024-10-13 21:07:20: info: Server UP and Running
+2024-10-13 21:08:13: info: connected to MongoDB
+2024-10-13 21:08:13: info: Server UP and Running
+2024-10-13 21:11:37: info: connected to MongoDB
+2024-10-13 21:11:37: info: Server UP and Running
+2024-10-13 21:11:56: info: connected to MongoDB
+2024-10-13 21:11:56: info: Server UP and Running
+2024-10-13 21:13:01: info: connected to MongoDB
+2024-10-13 21:13:01: info: Server UP and Running
+2024-10-13 21:13:56: info: connected to MongoDB
+2024-10-13 21:13:56: info: Server UP and Running
+2024-10-13 21:15:04: info: connected to MongoDB
+2024-10-13 21:15:04: info: Server UP and Running
+2024-10-13 21:16:15: info: connected to MongoDB
+2024-10-13 21:16:15: info: Server UP and Running
+2024-10-13 21:16:57: info: connected to MongoDB
+2024-10-13 21:16:57: info: Server UP and Running
+2024-10-13 21:17:25: info: connected to MongoDB
+2024-10-13 21:17:25: info: Server UP and Running
+2024-10-13 21:17:43: info: connected to MongoDB
+2024-10-13 21:17:43: info: Server UP and Running
+2024-10-13 21:18:06: info: connected to MongoDB
+2024-10-13 21:18:06: info: Server UP and Running
+2024-10-13 21:20:12: info: connected to MongoDB
+2024-10-13 21:20:12: info: Server UP and Running
+2024-10-13 21:20:33: info: connected to MongoDB
+2024-10-13 21:20:33: info: Server UP and Running
+2024-10-13 21:21:12: info: connected to MongoDB
+2024-10-13 21:21:12: info: Server UP and Running
+2024-10-13 21:21:28: info: connected to MongoDB
+2024-10-13 21:21:28: info: Server UP and Running
+2024-10-13 21:28:45: info: connected to MongoDB
+2024-10-13 21:28:45: info: Server UP and Running
+2024-10-14 08:50:55: error: MongoDB connection error: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2024-10-14 08:51:58: info: connected to MongoDB
+2024-10-14 08:51:58: info: Server UP and Running
+2024-10-14 08:55:41: info: connected to MongoDB
+2024-10-14 08:55:41: info: Server UP and Running
+2024-10-14 08:56:54: info: connected to MongoDB
+2024-10-14 08:56:54: info: Server UP and Running
+2024-10-14 08:58:00: info: connected to MongoDB
+2024-10-14 08:58:00: info: Server UP and Running
+2024-10-14 08:59:42: info: connected to MongoDB
+2024-10-14 08:59:42: info: Server UP and Running
+2024-10-14 09:01:22: info: connected to MongoDB
+2024-10-14 09:01:22: info: Server UP and Running
+2024-10-14 09:03:14: info: connected to MongoDB
+2024-10-14 09:03:14: info: Server UP and Running
+2024-10-14 09:04:15: info: connected to MongoDB
+2024-10-14 09:04:15: info: Server UP and Running
+2024-10-14 09:15:04: info: connected to MongoDB
+2024-10-14 09:15:04: info: Server UP and Running
+2024-10-14 09:15:17: info: connected to MongoDB
+2024-10-14 09:15:17: info: Server UP and Running
+2024-10-14 09:15:26: info: connected to MongoDB
+2024-10-14 09:15:26: info: Server UP and Running
+2024-10-14 09:15:31: info: connected to MongoDB
+2024-10-14 09:15:31: info: Server UP and Running
+2024-10-14 09:17:18: info: connected to MongoDB
+2024-10-14 09:17:18: info: Server UP and Running
+2024-10-14 09:17:27: info: connected to MongoDB
+2024-10-14 09:17:27: info: Server UP and Running
+2024-10-14 09:17:37: info: connected to MongoDB
+2024-10-14 09:17:37: info: Server UP and Running
+2024-10-14 09:17:52: info: connected to MongoDB
+2024-10-14 09:17:52: info: Server UP and Running
+2024-10-14 09:38:38: info: connected to MongoDB
+2024-10-14 09:38:38: info: Server UP and Running
+2024-10-14 09:38:50: info: connected to MongoDB
+2024-10-14 09:38:50: info: Server UP and Running
+2024-10-14 09:39:01: info: connected to MongoDB
+2024-10-14 09:39:01: info: Server UP and Running
+2024-10-14 09:39:11: info: connected to MongoDB
+2024-10-14 09:39:11: info: Server UP and Running
+2024-10-14 09:39:19: info: connected to MongoDB
+2024-10-14 09:39:19: info: Server UP and Running
+2024-10-14 09:39:33: info: connected to MongoDB
+2024-10-14 09:39:33: info: Server UP and Running
+2024-10-14 09:39:40: info: connected to MongoDB
+2024-10-14 09:39:40: info: Server UP and Running
+2024-10-14 09:39:44: info: connected to MongoDB
+2024-10-14 09:39:44: info: Server UP and Running
+2024-10-14 09:39:49: info: connected to MongoDB
+2024-10-14 09:39:49: info: Server UP and Running
+2024-10-14 09:40:08: info: connected to MongoDB
+2024-10-14 09:40:08: info: Server UP and Running
+2024-10-14 09:40:12: info: connected to MongoDB
+2024-10-14 09:40:12: info: Server UP and Running
+2024-10-14 09:40:20: info: connected to MongoDB
+2024-10-14 09:40:20: info: Server UP and Running
+2024-10-14 09:40:29: info: connected to MongoDB
+2024-10-14 09:40:29: info: Server UP and Running
+2024-10-14 09:40:54: info: connected to MongoDB
+2024-10-14 09:40:54: info: Server UP and Running
+2024-10-14 09:41:02: info: connected to MongoDB
+2024-10-14 09:41:02: info: Server UP and Running
+2024-10-14 09:41:18: info: connected to MongoDB
+2024-10-14 09:41:18: info: Server UP and Running
+2024-10-14 09:41:36: info: connected to MongoDB
+2024-10-14 09:41:36: info: Server UP and Running
+2024-10-14 09:41:44: info: connected to MongoDB
+2024-10-14 09:41:44: info: Server UP and Running
+2024-10-14 09:41:57: info: connected to MongoDB
+2024-10-14 09:41:57: info: Server UP and Running
+2024-10-14 09:42:12: info: connected to MongoDB
+2024-10-14 09:42:12: info: Server UP and Running
+2024-10-14 09:42:21: info: connected to MongoDB
+2024-10-14 09:42:21: info: Server UP and Running
+2024-10-14 09:42:27: info: connected to MongoDB
+2024-10-14 09:42:27: info: Server UP and Running
+2024-10-14 09:42:36: info: connected to MongoDB
+2024-10-14 09:42:36: info: Server UP and Running
+2024-10-14 09:42:43: info: connected to MongoDB
+2024-10-14 09:42:43: info: Server UP and Running
+2024-10-14 09:42:47: info: connected to MongoDB
+2024-10-14 09:42:47: info: Server UP and Running
+2024-10-14 09:42:59: info: connected to MongoDB
+2024-10-14 09:42:59: info: Server UP and Running
+2024-10-14 09:43:11: info: connected to MongoDB
+2024-10-14 09:43:11: info: Server UP and Running
+2024-10-14 09:43:15: info: connected to MongoDB
+2024-10-14 09:43:15: info: Server UP and Running
+2024-10-14 09:43:21: info: connected to MongoDB
+2024-10-14 09:43:21: info: Server UP and Running
+2024-10-14 09:43:29: info: connected to MongoDB
+2024-10-14 09:43:29: info: Server UP and Running
+2024-10-14 09:43:39: info: connected to MongoDB
+2024-10-14 09:43:39: info: Server UP and Running
+2024-10-14 09:43:56: info: connected to MongoDB
+2024-10-14 09:43:56: info: Server UP and Running
+2024-10-14 12:49:02: info: connected to MongoDB
+2024-10-14 12:49:02: info: Server UP and Running
+2024-10-14 12:49:16: info: connected to MongoDB
+2024-10-14 12:49:16: info: Server UP and Running
+2024-10-14 12:49:21: info: connected to MongoDB
+2024-10-14 12:49:21: info: Server UP and Running
+2024-10-14 12:49:29: info: connected to MongoDB
+2024-10-14 12:49:29: info: Server UP and Running
+2024-10-14 12:49:44: info: connected to MongoDB
+2024-10-14 12:49:44: info: Server UP and Running
+2024-10-14 12:49:50: info: connected to MongoDB
+2024-10-14 12:49:50: info: Server UP and Running
+2024-10-14 12:49:56: info: connected to MongoDB
+2024-10-14 12:49:56: info: Server UP and Running
+2024-10-14 12:50:02: info: connected to MongoDB
+2024-10-14 12:50:02: info: Server UP and Running
+2024-10-14 12:50:08: info: connected to MongoDB
+2024-10-14 12:50:08: info: Server UP and Running
+2024-10-14 12:50:14: info: connected to MongoDB
+2024-10-14 12:50:14: info: Server UP and Running
+2024-10-14 12:50:23: info: connected to MongoDB
+2024-10-14 12:50:23: info: Server UP and Running
+2024-10-14 12:50:36: info: connected to MongoDB
+2024-10-14 12:50:36: info: Server UP and Running
+2024-10-14 12:50:51: info: connected to MongoDB
+2024-10-14 12:50:51: info: Server UP and Running
+2024-10-14 12:51:16: info: connected to MongoDB
+2024-10-14 12:51:16: info: Server UP and Running
+2024-10-14 12:51:40: info: connected to MongoDB
+2024-10-14 12:51:40: info: Server UP and Running
+2024-10-14 12:51:59: info: connected to MongoDB
+2024-10-14 12:51:59: info: Server UP and Running
+2024-10-14 12:52:11: info: connected to MongoDB
+2024-10-14 12:52:11: info: Server UP and Running
+2024-10-14 12:52:26: info: connected to MongoDB
+2024-10-14 12:52:26: info: Server UP and Running
+2024-10-14 12:52:52: info: connected to MongoDB
+2024-10-14 12:52:52: info: Server UP and Running
+2024-10-14 12:53:27: info: connected to MongoDB
+2024-10-14 12:53:27: info: Server UP and Running
+2024-10-14 12:54:46: info: connected to MongoDB
+2024-10-14 12:54:46: info: Server UP and Running
+2024-10-14 12:54:59: info: connected to MongoDB
+2024-10-14 12:54:59: info: Server UP and Running
+2024-10-14 12:55:10: info: connected to MongoDB
+2024-10-14 12:55:10: info: Server UP and Running
+2024-10-14 12:55:21: info: connected to MongoDB
+2024-10-14 12:55:21: info: Server UP and Running
+2024-10-14 12:56:14: info: connected to MongoDB
+2024-10-14 12:56:14: info: Server UP and Running
+2024-10-14 12:56:47: info: connected to MongoDB
+2024-10-14 12:56:47: info: Server UP and Running
+2024-10-14 12:58:21: info: connected to MongoDB
+2024-10-14 12:58:21: info: Server UP and Running
+2024-10-14 12:58:26: info: connected to MongoDB
+2024-10-14 12:58:26: info: Server UP and Running
+2024-10-14 12:58:35: info: connected to MongoDB
+2024-10-14 12:58:35: info: Server UP and Running
+2024-10-14 12:58:45: info: connected to MongoDB
+2024-10-14 12:58:45: info: Server UP and Running
+2024-10-14 12:59:02: info: connected to MongoDB
+2024-10-14 12:59:02: info: Server UP and Running
+2024-10-14 12:59:18: info: connected to MongoDB
+2024-10-14 12:59:18: info: Server UP and Running
+2024-10-14 12:59:41: info: connected to MongoDB
+2024-10-14 12:59:41: info: Server UP and Running
+2024-10-14 12:59:53: info: connected to MongoDB
+2024-10-14 12:59:53: info: Server UP and Running
+2024-10-14 13:00:07: info: connected to MongoDB
+2024-10-14 13:00:07: info: Server UP and Running
+2024-10-14 13:00:18: info: connected to MongoDB
+2024-10-14 13:00:18: info: Server UP and Running
+2024-10-14 13:00:26: info: connected to MongoDB
+2024-10-14 13:00:26: info: Server UP and Running
+2024-10-14 13:00:38: info: connected to MongoDB
+2024-10-14 13:00:38: info: Server UP and Running
+2024-10-14 13:00:46: info: connected to MongoDB
+2024-10-14 13:00:46: info: Server UP and Running
+2024-10-14 13:01:04: info: connected to MongoDB
+2024-10-14 13:01:04: info: Server UP and Running
+2024-10-14 13:01:11: info: connected to MongoDB
+2024-10-14 13:01:11: info: Server UP and Running
+2024-10-14 13:01:21: info: connected to MongoDB
+2024-10-14 13:01:21: info: Server UP and Running
+2024-10-14 13:01:32: info: connected to MongoDB
+2024-10-14 13:01:32: info: Server UP and Running
+2024-10-14 13:01:43: info: connected to MongoDB
+2024-10-14 13:01:43: info: Server UP and Running
+2024-10-14 13:01:51: info: connected to MongoDB
+2024-10-14 13:01:51: info: Server UP and Running
+2024-10-14 13:02:00: info: connected to MongoDB
+2024-10-14 13:02:00: info: Server UP and Running
+2024-10-14 13:02:13: info: connected to MongoDB
+2024-10-14 13:02:13: info: Server UP and Running
+2024-10-14 13:02:30: info: connected to MongoDB
+2024-10-14 13:02:30: info: Server UP and Running
+2024-10-14 13:02:36: info: connected to MongoDB
+2024-10-14 13:02:36: info: Server UP and Running
+2024-10-14 13:04:10: info: connected to MongoDB
+2024-10-14 13:04:10: info: Server UP and Running
+2024-10-14 13:04:18: info: connected to MongoDB
+2024-10-14 13:04:18: info: Server UP and Running
+2024-10-14 13:08:40: info: connected to MongoDB
+2024-10-14 13:08:40: info: Server UP and Running
+2024-10-14 13:08:54: info: connected to MongoDB
+2024-10-14 13:08:54: info: Server UP and Running
+2024-10-14 13:09:10: info: connected to MongoDB
+2024-10-14 13:09:10: info: Server UP and Running
+2024-10-14 13:09:33: info: connected to MongoDB
+2024-10-14 13:09:33: info: Server UP and Running
+2024-10-14 13:10:06: info: connected to MongoDB
+2024-10-14 13:10:06: info: Server UP and Running
+2024-10-14 13:10:26: info: connected to MongoDB
+2024-10-14 13:10:26: info: Server UP and Running
+2024-10-14 13:10:50: info: connected to MongoDB
+2024-10-14 13:10:50: info: Server UP and Running
+2024-10-14 13:30:53: info: connected to MongoDB
+2024-10-14 13:30:53: info: Server UP and Running
+2024-10-14 13:35:56: info: connected to MongoDB
+2024-10-14 13:35:56: info: Server UP and Running
+2024-10-14 13:39:22: info: connected to MongoDB
+2024-10-14 13:39:22: info: Server UP and Running
+2024-10-14 14:26:41: info: connected to MongoDB
+2024-10-14 14:26:41: info: Server UP and Running
+2024-10-14 14:27:05: info: connected to MongoDB
+2024-10-14 14:27:05: info: Server UP and Running
+2024-10-14 14:27:14: info: connected to MongoDB
+2024-10-14 14:27:14: info: Server UP and Running
+2024-10-14 14:27:54: info: connected to MongoDB
+2024-10-14 14:27:54: info: Server UP and Running
+2024-10-14 14:28:09: info: connected to MongoDB
+2024-10-14 14:28:09: info: Server UP and Running
+2024-10-14 14:28:43: info: connected to MongoDB
+2024-10-14 14:28:43: info: Server UP and Running
+2024-10-14 14:28:55: info: connected to MongoDB
+2024-10-14 14:28:55: info: Server UP and Running
+2024-10-14 15:34:01: info: connected to MongoDB
+2024-10-14 15:34:01: info: Server UP and Running
+2024-10-14 15:34:22: info: connected to MongoDB
+2024-10-14 15:34:22: info: Server UP and Running
+2024-10-14 15:39:26: info: connected to MongoDB
+2024-10-14 15:39:26: info: Server UP and Running
+2024-10-14 15:39:37: info: connected to MongoDB
+2024-10-14 15:39:37: info: Server UP and Running
+2024-10-14 15:39:48: info: connected to MongoDB
+2024-10-14 15:39:48: info: Server UP and Running
+2024-10-14 15:40:10: info: connected to MongoDB
+2024-10-14 15:40:10: info: Server UP and Running
+2024-10-14 15:43:58: info: connected to MongoDB
+2024-10-14 15:43:58: info: Server UP and Running
+2024-10-14 15:44:25: info: connected to MongoDB
+2024-10-14 15:44:25: info: Server UP and Running
+2024-10-14 15:45:27: info: connected to MongoDB
+2024-10-14 15:45:27: info: Server UP and Running
+2024-10-14 15:45:46: info: connected to MongoDB
+2024-10-14 15:45:46: info: Server UP and Running
+2024-10-14 15:45:50: info: connected to MongoDB
+2024-10-14 15:45:50: info: Server UP and Running
+2024-10-14 15:47:03: info: connected to MongoDB
+2024-10-14 15:47:03: info: Server UP and Running
+2024-10-14 15:55:41: info: connected to MongoDB
+2024-10-14 15:55:41: info: Server UP and Running
+2024-10-14 15:57:41: info: connected to MongoDB
+2024-10-14 15:57:41: info: Server UP and Running
+2024-10-14 16:01:06: info: connected to MongoDB
+2024-10-14 16:01:06: info: Server UP and Running
+2024-10-14 16:01:14: info: connected to MongoDB
+2024-10-14 16:01:14: info: Server UP and Running
+2024-10-14 16:01:26: info: connected to MongoDB
+2024-10-14 16:01:26: info: Server UP and Running
+2024-10-14 16:02:03: info: connected to MongoDB
+2024-10-14 16:02:03: info: Server UP and Running
+2024-10-14 16:02:16: info: connected to MongoDB
+2024-10-14 16:02:16: info: Server UP and Running
+2024-10-14 16:05:20: info: connected to MongoDB
+2024-10-14 16:05:20: info: Server UP and Running
+2024-10-14 16:05:25: info: connected to MongoDB
+2024-10-14 16:05:25: info: Server UP and Running
+2024-10-14 16:05:39: info: connected to MongoDB
+2024-10-14 16:05:39: info: Server UP and Running
+2024-10-14 16:06:10: info: connected to MongoDB
+2024-10-14 16:06:10: info: Server UP and Running
+2024-10-14 16:06:22: info: connected to MongoDB
+2024-10-14 16:06:22: info: Server UP and Running
+2024-10-14 16:07:06: info: connected to MongoDB
+2024-10-14 16:07:06: info: Server UP and Running
+2024-10-14 16:42:18: info: connected to MongoDB
+2024-10-14 16:42:18: info: Server UP and Running
+2024-10-14 19:22:05: info: connected to MongoDB
+2024-10-14 19:22:05: info: Server UP and Running
+2024-10-16 21:05:20: info: connected to MongoDB
+2024-10-16 21:05:20: info: Server UP and Running
+2024-10-16 21:09:27: info: connected to MongoDB
+2024-10-16 21:09:27: info: Server UP and Running
+2024-10-16 21:11:50: info: connected to MongoDB
+2024-10-16 21:11:50: info: Server UP and Running
+2024-10-16 21:15:11: info: connected to MongoDB
+2024-10-16 21:15:11: info: Server UP and Running
+2024-10-16 21:36:33: info: connected to MongoDB
+2024-10-16 21:36:33: info: Server UP and Running
+2024-10-16 21:38:00: info: connected to MongoDB
+2024-10-16 21:38:00: info: Server UP and Running
+2024-10-16 21:38:22: info: connected to MongoDB
+2024-10-16 21:38:22: info: Server UP and Running
+2024-10-16 21:38:49: info: connected to MongoDB
+2024-10-16 21:38:49: info: Server UP and Running
+2024-10-16 21:39:26: info: connected to MongoDB
+2024-10-16 21:39:26: info: Server UP and Running
+2024-10-16 21:39:47: info: connected to MongoDB
+2024-10-16 21:39:47: info: Server UP and Running
+2024-10-16 21:40:00: info: connected to MongoDB
+2024-10-16 21:40:00: info: Server UP and Running
+2024-10-16 21:40:05: info: connected to MongoDB
+2024-10-16 21:40:05: info: Server UP and Running
+2024-10-16 21:40:18: info: connected to MongoDB
+2024-10-16 21:40:18: info: Server UP and Running
+2024-10-16 21:40:25: info: connected to MongoDB
+2024-10-16 21:40:25: info: Server UP and Running
+2024-10-16 21:40:33: info: connected to MongoDB
+2024-10-16 21:40:33: info: Server UP and Running
+2024-10-16 21:40:43: info: connected to MongoDB
+2024-10-16 21:40:43: info: Server UP and Running
+2024-10-16 21:40:54: info: connected to MongoDB
+2024-10-16 21:40:54: info: Server UP and Running
+2024-10-16 21:40:58: info: connected to MongoDB
+2024-10-16 21:40:58: info: Server UP and Running
+2024-10-16 21:41:06: info: connected to MongoDB
+2024-10-16 21:41:06: info: Server UP and Running
+2024-10-16 21:41:15: info: connected to MongoDB
+2024-10-16 21:41:15: info: Server UP and Running
+2024-10-16 21:41:32: info: connected to MongoDB
+2024-10-16 21:41:32: info: Server UP and Running
+2024-10-16 21:41:41: info: connected to MongoDB
+2024-10-16 21:41:41: info: Server UP and Running
+2024-10-16 21:41:45: info: connected to MongoDB
+2024-10-16 21:41:45: info: Server UP and Running
+2024-10-16 21:41:53: info: connected to MongoDB
+2024-10-16 21:41:53: info: Server UP and Running
+2024-10-16 21:43:46: info: connected to MongoDB
+2024-10-16 21:43:46: info: Server UP and Running
+2024-10-16 21:49:21: info: connected to MongoDB
+2024-10-16 21:49:21: info: Server UP and Running
+2024-10-16 21:52:12: info: connected to MongoDB
+2024-10-16 21:52:12: info: Server UP and Running
+2024-10-16 21:53:05: info: connected to MongoDB
+2024-10-16 21:53:05: info: Server UP and Running
+2024-10-16 21:53:16: info: connected to MongoDB
+2024-10-16 21:53:16: info: Server UP and Running
+2024-10-16 21:53:29: info: connected to MongoDB
+2024-10-16 21:53:29: info: Server UP and Running
+2024-10-16 21:53:45: info: connected to MongoDB
+2024-10-16 21:53:45: info: Server UP and Running
+2024-10-16 21:54:20: info: connected to MongoDB
+2024-10-16 21:54:20: info: Server UP and Running
+2024-10-16 21:54:38: info: connected to MongoDB
+2024-10-16 21:54:38: info: Server UP and Running
+2024-10-16 21:58:21: info: connected to MongoDB
+2024-10-16 21:58:21: info: Server UP and Running
+2024-10-16 22:00:15: info: connected to MongoDB
+2024-10-16 22:00:15: info: Server UP and Running
+2024-10-16 22:00:38: info: connected to MongoDB
+2024-10-16 22:00:38: info: Server UP and Running
+2024-10-16 22:01:04: info: connected to MongoDB
+2024-10-16 22:01:04: info: Server UP and Running
+2024-10-16 22:01:17: info: connected to MongoDB
+2024-10-16 22:01:17: info: Server UP and Running
+2024-10-16 22:04:07: info: connected to MongoDB
+2024-10-16 22:04:07: info: Server UP and Running
+2024-10-16 22:05:07: info: connected to MongoDB
+2024-10-16 22:05:07: info: Server UP and Running
+2024-10-16 22:05:17: info: connected to MongoDB
+2024-10-16 22:05:17: info: Server UP and Running
+2024-10-16 22:05:33: info: connected to MongoDB
+2024-10-16 22:05:33: info: Server UP and Running
+2024-10-16 22:07:15: info: connected to MongoDB
+2024-10-16 22:07:15: info: Server UP and Running
+2024-10-16 22:07:41: info: connected to MongoDB
+2024-10-16 22:07:41: info: Server UP and Running
+2024-10-16 22:11:18: info: connected to MongoDB
+2024-10-16 22:11:18: info: Server UP and Running
+2024-10-16 22:11:49: info: connected to MongoDB
+2024-10-16 22:11:49: info: Server UP and Running
+2024-10-16 22:12:09: info: connected to MongoDB
+2024-10-16 22:12:09: info: Server UP and Running
+2024-10-16 22:12:45: info: connected to MongoDB
+2024-10-16 22:12:45: info: Server UP and Running
+2024-10-16 22:17:16: info: connected to MongoDB
+2024-10-16 22:17:16: info: Server UP and Running
+2024-10-16 22:17:50: info: connected to MongoDB
+2024-10-16 22:17:50: info: Server UP and Running
+2024-10-16 22:18:28: info: connected to MongoDB
+2024-10-16 22:18:28: info: Server UP and Running
+2024-10-16 22:18:44: info: connected to MongoDB
+2024-10-16 22:18:44: info: Server UP and Running
+2024-10-16 22:19:13: info: connected to MongoDB
+2024-10-16 22:19:13: info: Server UP and Running
+2024-10-16 22:22:06: info: connected to MongoDB
+2024-10-16 22:22:06: info: Server UP and Running
+2024-10-16 22:22:38: info: connected to MongoDB
+2024-10-16 22:22:38: info: Server UP and Running
+2024-10-16 22:22:56: info: connected to MongoDB
+2024-10-16 22:22:56: info: Server UP and Running
+2024-10-16 22:23:22: info: connected to MongoDB
+2024-10-16 22:23:22: info: Server UP and Running
+2024-10-16 22:28:35: info: connected to MongoDB
+2024-10-16 22:28:35: info: Server UP and Running
+2024-10-16 22:34:14: info: connected to MongoDB
+2024-10-16 22:34:14: info: Server UP and Running
+2024-10-16 22:34:40: info: connected to MongoDB
+2024-10-16 22:34:40: info: Server UP and Running
+2024-10-16 22:34:49: info: connected to MongoDB
+2024-10-16 22:34:49: info: Server UP and Running
+2024-10-16 22:35:53: info: connected to MongoDB
+2024-10-16 22:35:53: info: Server UP and Running
+2024-10-17 07:50:32: info: connected to MongoDB
+2024-10-17 07:50:32: info: Server UP and Running
+2024-10-17 07:51:24: info: connected to MongoDB
+2024-10-17 07:51:24: info: Server UP and Running
+2024-10-17 07:52:53: info: connected to MongoDB
+2024-10-17 07:52:53: info: Server UP and Running
+2024-10-17 07:58:42: info: connected to MongoDB
+2024-10-17 07:58:42: info: Server UP and Running
+2024-10-17 08:01:00: info: connected to MongoDB
+2024-10-17 08:01:00: info: Server UP and Running
+2024-10-17 08:02:33: info: connected to MongoDB
+2024-10-17 08:02:33: info: Server UP and Running
+2024-10-17 08:03:16: info: connected to MongoDB
+2024-10-17 08:03:16: info: Server UP and Running
+2024-10-17 08:03:58: info: connected to MongoDB
+2024-10-17 08:03:58: info: Server UP and Running
+2024-10-17 08:05:48: info: connected to MongoDB
+2024-10-17 08:05:48: info: Server UP and Running
+2024-10-17 08:06:14: info: connected to MongoDB
+2024-10-17 08:06:14: info: Server UP and Running
+2024-10-17 08:06:41: info: connected to MongoDB
+2024-10-17 08:06:41: info: Server UP and Running
+2024-10-17 08:07:08: info: connected to MongoDB
+2024-10-17 08:07:08: info: Server UP and Running
+2024-10-17 08:07:21: info: connected to MongoDB
+2024-10-17 08:07:21: info: Server UP and Running
+2024-10-17 08:07:35: info: connected to MongoDB
+2024-10-17 08:07:36: info: Server UP and Running
+2024-10-17 08:07:58: info: connected to MongoDB
+2024-10-17 08:07:58: info: Server UP and Running
+2024-10-17 08:09:14: info: connected to MongoDB
+2024-10-17 08:09:14: info: Server UP and Running
+2024-10-17 08:09:58: info: connected to MongoDB
+2024-10-17 08:09:58: info: Server UP and Running
+2024-10-17 08:10:16: info: connected to MongoDB
+2024-10-17 08:10:16: info: Server UP and Running
+2024-10-17 08:10:59: info: connected to MongoDB
+2024-10-17 08:10:59: info: Server UP and Running
+2024-10-17 08:11:05: info: connected to MongoDB
+2024-10-17 08:11:05: info: Server UP and Running
+2024-10-17 08:13:56: info: connected to MongoDB
+2024-10-17 08:13:56: info: Server UP and Running
+2024-10-17 08:14:40: info: connected to MongoDB
+2024-10-17 08:14:40: info: Server UP and Running
+2024-10-17 08:14:47: info: connected to MongoDB
+2024-10-17 08:14:47: info: Server UP and Running
+2024-10-17 08:52:09: info: connected to MongoDB
+2024-10-17 08:52:09: info: Server UP and Running
+2024-10-17 08:52:14: info: connected to MongoDB
+2024-10-17 08:52:14: info: Server UP and Running
+2024-10-17 08:52:46: info: connected to MongoDB
+2024-10-17 08:52:46: info: Server UP and Running
+2024-10-17 08:52:52: info: connected to MongoDB
+2024-10-17 08:52:52: info: Server UP and Running
+2024-10-17 08:54:50: info: connected to MongoDB
+2024-10-17 08:54:50: info: Server UP and Running
+2024-10-17 08:55:20: info: connected to MongoDB
+2024-10-17 08:55:20: info: Server UP and Running
+2024-10-17 08:55:27: info: connected to MongoDB
+2024-10-17 08:55:27: info: Server UP and Running
+2024-10-17 08:56:22: info: connected to MongoDB
+2024-10-17 08:56:22: info: Server UP and Running
+2024-10-17 08:56:52: info: connected to MongoDB
+2024-10-17 08:56:52: info: Server UP and Running
+2024-10-17 08:59:23: info: connected to MongoDB
+2024-10-17 08:59:23: info: Server UP and Running
+2024-10-17 08:59:33: info: connected to MongoDB
+2024-10-17 08:59:33: info: Server UP and Running
+2024-10-17 08:59:40: info: connected to MongoDB
+2024-10-17 08:59:40: info: Server UP and Running
+2024-10-17 09:00:33: info: connected to MongoDB
+2024-10-17 09:00:33: info: Server UP and Running
+2024-10-17 09:00:51: info: connected to MongoDB
+2024-10-17 09:00:51: info: Server UP and Running
+2024-10-17 09:01:32: info: connected to MongoDB
+2024-10-17 09:01:32: info: Server UP and Running
+2024-10-17 09:01:44: info: connected to MongoDB
+2024-10-17 09:01:44: info: Server UP and Running
+2024-10-17 09:02:14: info: connected to MongoDB
+2024-10-17 09:02:14: info: Server UP and Running
+2024-10-17 09:08:08: info: connected to MongoDB
+2024-10-17 09:08:08: info: Server UP and Running
+2024-10-17 09:08:15: info: connected to MongoDB
+2024-10-17 09:08:15: info: Server UP and Running
+2024-10-17 09:08:27: info: connected to MongoDB
+2024-10-17 09:08:27: info: Server UP and Running
+2024-10-17 09:08:41: info: connected to MongoDB
+2024-10-17 09:08:41: info: Server UP and Running
+2024-10-17 09:08:51: info: connected to MongoDB
+2024-10-17 09:08:51: info: Server UP and Running
+2024-10-17 09:09:16: info: connected to MongoDB
+2024-10-17 09:09:16: info: Server UP and Running
+2024-10-17 09:09:45: info: connected to MongoDB
+2024-10-17 09:09:45: info: Server UP and Running
+2024-10-17 09:11:38: info: connected to MongoDB
+2024-10-17 09:11:38: info: Server UP and Running
+2024-10-17 09:13:14: info: connected to MongoDB
+2024-10-17 09:13:14: info: Server UP and Running
+2024-10-17 09:30:41: info: connected to MongoDB
+2024-10-17 09:30:41: info: Server UP and Running
+2024-10-17 09:30:47: info: connected to MongoDB
+2024-10-17 09:30:47: info: Server UP and Running
+2024-10-17 09:30:55: info: connected to MongoDB
+2024-10-17 09:30:55: info: Server UP and Running
+2024-10-17 09:32:20: info: connected to MongoDB
+2024-10-17 09:32:20: info: Server UP and Running
+2024-10-17 09:32:30: info: connected to MongoDB
+2024-10-17 09:32:30: info: Server UP and Running
+2024-10-17 09:32:41: info: connected to MongoDB
+2024-10-17 09:32:41: info: Server UP and Running
+2024-10-17 09:33:01: info: connected to MongoDB
+2024-10-17 09:33:01: info: Server UP and Running
+2024-10-17 09:33:23: info: connected to MongoDB
+2024-10-17 09:33:23: info: Server UP and Running
+2024-10-17 09:33:50: info: connected to MongoDB
+2024-10-17 09:33:50: info: Server UP and Running
+2024-10-17 09:34:18: info: connected to MongoDB
+2024-10-17 09:34:18: info: Server UP and Running
+2024-10-17 09:35:23: info: connected to MongoDB
+2024-10-17 09:35:23: info: Server UP and Running
+2024-10-17 09:39:39: info: connected to MongoDB
+2024-10-17 09:39:39: info: Server UP and Running
+2024-10-17 09:40:11: info: connected to MongoDB
+2024-10-17 09:40:11: info: Server UP and Running
+2024-10-17 09:41:35: info: connected to MongoDB
+2024-10-17 09:41:35: info: Server UP and Running
+2024-10-17 09:42:12: info: connected to MongoDB
+2024-10-17 09:42:12: info: Server UP and Running
+2024-10-17 09:42:22: info: connected to MongoDB
+2024-10-17 09:42:22: info: Server UP and Running
+2024-10-17 09:43:22: info: connected to MongoDB
+2024-10-17 09:43:22: info: Server UP and Running
+2024-10-17 09:44:30: info: connected to MongoDB
+2024-10-17 09:44:30: info: Server UP and Running
+2024-10-17 09:44:49: info: connected to MongoDB
+2024-10-17 09:44:49: info: Server UP and Running
+2024-10-17 09:45:32: info: connected to MongoDB
+2024-10-17 09:45:32: info: Server UP and Running
+2024-10-17 09:45:57: info: connected to MongoDB
+2024-10-17 09:45:57: info: Server UP and Running
+2024-10-17 09:46:11: info: connected to MongoDB
+2024-10-17 09:46:11: info: Server UP and Running
+2024-10-17 12:58:52: info: connected to MongoDB
+2024-10-17 12:59:54: info: Server UP and Running
+2024-10-17 12:59:59: info: connected to MongoDB
+2024-10-17 12:59:59: info: Server UP and Running
+2024-10-17 13:01:30: info: connected to MongoDB
+2024-10-17 13:01:30: info: Server UP and Running
+2024-10-17 13:01:47: info: connected to MongoDB
+2024-10-17 13:01:47: info: Server UP and Running
+2024-10-17 13:08:46: info: connected to MongoDB
+2024-10-17 13:08:46: info: Server UP and Running
+2024-10-17 13:10:31: info: connected to MongoDB
+2024-10-17 13:10:31: info: Server UP and Running
+2024-10-17 13:16:19: info: connected to MongoDB
+2024-10-17 13:16:19: info: Server UP and Running
+2024-10-17 13:16:47: info: connected to MongoDB
+2024-10-17 13:16:47: info: Server UP and Running
+2024-10-17 13:17:05: info: connected to MongoDB
+2024-10-17 13:17:05: info: Server UP and Running
+2024-10-17 13:59:57: info: connected to MongoDB
+2024-10-17 13:59:57: info: Server UP and Running
+2024-10-17 14:00:34: info: connected to MongoDB
+2024-10-17 14:00:34: info: Server UP and Running
+2024-10-17 14:01:04: info: connected to MongoDB
+2024-10-17 14:01:04: info: Server UP and Running
+2024-10-17 14:02:15: info: connected to MongoDB
+2024-10-17 14:02:15: info: Server UP and Running
+2024-10-17 14:02:23: info: connected to MongoDB
+2024-10-17 14:02:23: info: Server UP and Running
+2024-10-17 14:02:46: info: connected to MongoDB
+2024-10-17 14:02:46: info: Server UP and Running
+2024-10-17 14:28:30: info: connected to MongoDB
+2024-10-17 14:28:30: info: Server UP and Running
+2024-10-17 14:29:36: info: connected to MongoDB
+2024-10-17 14:29:36: info: Server UP and Running
+2024-10-17 14:29:50: info: connected to MongoDB
+2024-10-17 14:29:50: info: Server UP and Running
+2024-10-17 14:30:08: info: connected to MongoDB
+2024-10-17 14:30:08: info: Server UP and Running
+2024-10-17 14:30:43: info: connected to MongoDB
+2024-10-17 14:30:43: info: Server UP and Running
+2024-10-17 14:30:56: info: connected to MongoDB
+2024-10-17 14:30:56: info: Server UP and Running
+2024-10-17 14:32:17: info: connected to MongoDB
+2024-10-17 14:32:17: info: Server UP and Running
+2024-10-17 14:32:28: info: connected to MongoDB
+2024-10-17 14:32:28: info: Server UP and Running
+2024-10-17 14:33:04: info: connected to MongoDB
+2024-10-17 14:33:04: info: Server UP and Running
+2024-10-17 14:33:23: info: connected to MongoDB
+2024-10-17 14:33:23: info: Server UP and Running
+2024-10-17 14:33:46: info: connected to MongoDB
+2024-10-17 14:33:46: info: Server UP and Running
+2024-10-17 14:34:09: info: connected to MongoDB
+2024-10-17 14:34:09: info: Server UP and Running
+2024-10-17 14:34:32: info: connected to MongoDB
+2024-10-17 14:34:32: info: Server UP and Running
+2024-10-17 14:38:03: info: connected to MongoDB
+2024-10-17 14:38:03: info: Server UP and Running
+2024-10-17 14:39:41: info: connected to MongoDB
+2024-10-17 14:39:41: info: Server UP and Running
+2024-10-17 14:39:54: info: connected to MongoDB
+2024-10-17 14:39:54: info: Server UP and Running
+2024-10-17 14:40:01: info: connected to MongoDB
+2024-10-17 14:40:01: info: Server UP and Running
+2024-10-17 14:40:06: info: connected to MongoDB
+2024-10-17 14:40:06: info: Server UP and Running
+2024-10-17 14:40:15: info: connected to MongoDB
+2024-10-17 14:40:15: info: Server UP and Running
+2024-10-17 14:40:41: info: connected to MongoDB
+2024-10-17 14:40:41: info: Server UP and Running
+2024-10-17 14:40:53: info: connected to MongoDB
+2024-10-17 14:40:53: info: Server UP and Running
+2024-10-17 14:40:59: info: connected to MongoDB
+2024-10-17 14:40:59: info: Server UP and Running
+2024-10-17 14:42:55: info: connected to MongoDB
+2024-10-17 14:42:55: info: Server UP and Running
+2024-10-17 14:43:01: info: connected to MongoDB
+2024-10-17 14:43:01: info: Server UP and Running
+2024-10-17 14:43:48: info: connected to MongoDB
+2024-10-17 14:43:48: info: Server UP and Running
+2024-10-17 14:44:16: info: connected to MongoDB
+2024-10-17 14:44:16: info: Server UP and Running
+2024-10-17 14:45:49: info: connected to MongoDB
+2024-10-17 14:45:49: info: Server UP and Running
+2024-10-17 14:46:14: info: connected to MongoDB
+2024-10-17 14:46:14: info: Server UP and Running
+2024-10-17 14:47:36: info: connected to MongoDB
+2024-10-17 14:47:36: info: Server UP and Running
+2024-10-17 14:47:46: info: connected to MongoDB
+2024-10-17 14:47:46: info: Server UP and Running
+2024-10-17 14:48:09: info: connected to MongoDB
+2024-10-17 14:48:09: info: Server UP and Running
+2024-10-17 14:53:30: info: connected to MongoDB
+2024-10-17 14:53:30: info: Server UP and Running
+2024-10-17 14:56:43: info: connected to MongoDB
+2024-10-17 14:56:43: info: Server UP and Running
+2024-10-17 14:58:00: info: connected to MongoDB
+2024-10-17 14:58:00: info: Server UP and Running
+2024-10-17 14:59:28: info: connected to MongoDB
+2024-10-17 14:59:28: info: Server UP and Running
+2024-10-17 15:01:09: info: connected to MongoDB
+2024-10-17 15:01:09: info: Server UP and Running
+2024-10-17 15:44:27: info: connected to MongoDB
+2024-10-17 15:44:27: info: Server UP and Running
+2024-10-17 15:44:43: info: connected to MongoDB
+2024-10-17 15:44:43: info: Server UP and Running
+2024-10-17 15:45:43: info: connected to MongoDB
+2024-10-17 15:45:43: info: Server UP and Running
+2024-10-17 16:01:58: info: connected to MongoDB
+2024-10-17 16:01:58: info: Server UP and Running
+2024-10-17 16:03:16: info: connected to MongoDB
+2024-10-17 16:03:16: info: Server UP and Running
+2024-10-17 16:06:26: info: connected to MongoDB
+2024-10-17 16:06:26: info: Server UP and Running
+2024-10-17 16:12:28: info: connected to MongoDB
+2024-10-17 16:12:28: info: Server UP and Running
+2024-10-17 17:32:19: info: connected to MongoDB
+2024-10-17 17:32:19: info: Server UP and Running
+2024-10-17 17:32:36: info: connected to MongoDB
+2024-10-17 17:32:36: info: Server UP and Running
